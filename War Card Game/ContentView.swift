@@ -25,7 +25,14 @@ struct ContentView: View {
                     Spacer()
                 }
                 Spacer()
-                Image("button")
+                
+                Button {
+                    deal()
+                } label: {
+                    Image("button")
+                }
+
+                
                 Spacer()
                 HStack {
                     Spacer()
@@ -47,6 +54,10 @@ struct ContentView: View {
                 Spacer()
             }
         }
+    }
+    
+    func deal() {
+        print("Deal cards!")
     }
 }
 
