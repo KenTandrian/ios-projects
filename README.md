@@ -12,3 +12,4 @@ Click on the project name to see the project's README.md file.
 - [**Xylophone**](Xylophone/README.md)
 - [**EggTimer**](EggTimer/README.md)
 - [**Quizzler**](Quizzler/README.md)
+- [**Destini**](Destini/README.md)
