@@ -124,8 +124,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="heightSlider" destination="Pky-qY-oVp" id="Zdb-yo-ijW"/>
-                        <outlet property="weightSlider" destination="s2X-C5-Zcz" id="Sdo-DY-UXH"/>
+                        <outlet property="heightLabel" destination="Xcz-1j-2c9" id="Wa4-d5-2rX"/>
+                        <outlet property="weightLabel" destination="LTF-aL-8qu" id="ELu-ln-UDS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
