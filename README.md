@@ -14,3 +14,4 @@ Click on the project name to see the project's README.md file.
 - [**Quizzler**](Quizzler/README.md)
 - [**Destini**](Destini/README.md)
 - [**BMI Calculator**](BMI%20Calculator/README.md)
+- [**Tipsy**](Tipsy/README.md)
